@@ -1,1 +1,1 @@
-A site for my CV, forked from StartBootstrap's template
+A site for(as?) my CV, forked from StartBootstrap's template
